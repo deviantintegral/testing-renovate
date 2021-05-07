@@ -2,5 +2,6 @@
   "ignorePaths": [
     "web",
     "vendor"
-  ]
+  ],
+  "lockFileMaintenance": { "enabled": true }
 }
