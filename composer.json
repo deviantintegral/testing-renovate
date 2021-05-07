@@ -19,7 +19,7 @@
         "drupal/core-composer-scaffold": "^9.0",
         "drupal/core-project-message": "^9.0",
         "drupal/core-recommended": "^9.0",
-        "drupal/token": "dev-1.x#a177a79"
+        "drupal/token": "dev-1.x"
     },
     "conflict": {
         "drupal/drupal": "*"
