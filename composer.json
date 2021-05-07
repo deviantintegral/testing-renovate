@@ -16,10 +16,10 @@
     ],
     "require": {
         "composer/installers": "^1.9",
-        "drupal/core-composer-scaffold": "9.0.*",
-        "drupal/core-project-message": "9.0.*",
-        "drupal/core-recommended": "9.0.*",
-        "drupal/token": "1.x-dev#a177a79"
+        "drupal/core-composer-scaffold": "^9.0",
+        "drupal/core-project-message": "^9.0",
+        "drupal/core-recommended": "^9.0",
+        "drupal/token": "dev-1.x#a177a79"
     },
     "conflict": {
         "drupal/drupal": "*"
