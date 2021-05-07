@@ -3,5 +3,8 @@
     "web",
     "vendor"
   ],
-  "lockFileMaintenance": { "enabled": true }
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": null
+  }
 }
